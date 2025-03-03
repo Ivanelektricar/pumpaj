@@ -8,8 +8,8 @@ const Hero: React.FC = () => {
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
           Глас студената Србије и Заплања који се боре за боље сутра
         </p>
-        <div className="text-2xl md:text-3xl font-bold animate-pulse">
-          #ПумпајПротест
+        <div className="text-4xl md:text-6xl font-bold animate-pulse">
+          #ПумпајПротест - ПУМПАЈ ЗАПЛАЊЕ!
         </div>
         <div className="mt-12 flex flex-wrap justify-center gap-4">
           <a 
