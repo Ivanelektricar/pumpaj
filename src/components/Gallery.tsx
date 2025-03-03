@@ -6,38 +6,38 @@ const Gallery: React.FC = () => {
     {
       id: 1,
       src: "https://slikesaprotestauzaplanju.netlify.app/images/protest1.jpg",
-      caption: "Београд: \"Пумпај протест, не пумпај оцене!\"",
-      location: "Београд"
+      caption: " \"Пумпај протест, не пумпај оцене!\"",
+      location: "Испред топоницу"
     },
     {
       id: 2,
       src: "https://slikesaprotestauzaplanju.netlify.app/images/protest2.jpg",
-      caption: "Нови Сад: \"Пумпамо за будућност, не за политичаре!\"",
-      location: "Нови Сад"
+      caption: "\"Пумпамо за будућност, не за политичаре!\"",
+      location: "Сви за једног, један за сви"
     },
     {
       id: 3,
       src: "https://slikesaprotestauzaplanju.netlify.app/images/protest3.jpg",
-      caption: "Ниш: \"Пумпај знање, не корупцију!\"",
-      location: "Ниш"
+      caption: "\"Пумпај знање, не корупцију!\"",
+      location: "У центар Заплање"
     },
     {
       id: 4,
       src: "https://slikesaprotestauzaplanju.netlify.app/images/protest4.jpg",
-      caption: "Крагујевац: \"Пумпамо за боље услове!\"",
-      location: "Крагујевац"
+      caption: "\"Пумпамо за боље услове!\"",
+      location: "Код деда Драгутина"
     },
     {
       id: 5,
       src: "https://slikesaprotestauzaplanju.netlify.app/images/protest5.jpg",
-      caption: "Суботица: \"Пумпај промене!\"",
-      location: "Суботица"
+      caption: "\"Пумпај промене!\"",
+      location: "Пумпа ради 0-24"
     },
     {
       id: 6,
       src: "https://slikesaprotestauzaplanju.netlify.app/images/protest6.jpg",
-      caption: "Чачак: \"Пумпај за правду!\"",
-      location: "Чачак"
+      caption: "\"Пумпај за правду!\"",
+      location: "Ће буде"
     }
   ];
 
