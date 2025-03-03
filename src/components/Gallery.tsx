@@ -5,7 +5,7 @@ const Gallery: React.FC = () => {
   const photos = [
     {
       id: 1,
-      src: "src/components/image/1.jpg",
+      src: "src/components/Gallery/1.jpg",
       caption: " \"Пумпај протест, не пумпај оцене!\"",
       location: "Испред топоницу"
     },
