@@ -11,7 +11,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 2,
-      src: "https://slikesaprotestauzaplanju.netlify.app/images/protest2.jpg",
+      src: "/components/image/2.jpg",
       caption: "\"Пумпамо за будућност, не за политичаре!\"",
       location: "Сви за једног, један за сви"
     },
